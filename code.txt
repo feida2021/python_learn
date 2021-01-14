@@ -1,1 +1,2 @@
 today is thursday
+this is the second line
